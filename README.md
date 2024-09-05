@@ -9,10 +9,10 @@ Este es el repositorio del *Grupo 10*, cuyos integrantes son:
 
 ## Wiki
 
-Puede acceder a la wiki mediante el siguiente [enlace] ( )
+Puede acceder a la wiki mediante el siguiente [enlace]( )
 
 ## Videos
 
-* [Video presentación cliente] ( )
-* [Video presentación avance 1] ( )
+* [Video presentación cliente]( )
+* [Video presentación avance 1]( )
 * Video presentación final ( )
