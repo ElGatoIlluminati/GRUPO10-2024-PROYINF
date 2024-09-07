@@ -5,7 +5,7 @@ Este es el repositorio del *Grupo 10*, cuyos integrantes son:
 * Patricio Ponce - 202173641-7
 * Aylín Sandoval - 202173638-7
 * Nicolás González - 201990004-8
-* **Tutor**: Josefa Flores
+* **Tutora**: Josefa Flores
 
 ## Wiki
 
