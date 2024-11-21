@@ -9,7 +9,7 @@ Para la correcta revisión de esta entrega, se necesita **tener instalado Python
 	```
  * Luego, sin nunca salir del directorio anterior en el WPS, activar el entorno con el siguiente código:
 	```
-	nombre_del_entorno\Scripts.\actívate
+	nombre_del_entorno\Scripts.\activate
 
  	#De haber un error, intentar de nuevo, pero correr este código antes:
 	Set-ExecutionPolicy RemoteSigned
