@@ -1,5 +1,9 @@
 ## Sobre entrega del hito 5
 
+###IMPORTANTE: Sobre el proyecto
+
+El archivo del proyecto era muy grande, por lo que tuvimos que subirlo a Google Drive. Para descargarlo es el [siguiente link](https://drive.google.com/file/d/1K-os140JehOslOxnVaJDbxoZkSB3sDBp/view?usp=drive_link)
+
 ### Documentación de nueva API a utilizar: Text embeddings de OPENAI.
 * Agregada a la sección [servicios](https://github.com/ElGatoIlluminati/GRUPO10-2024-PROYINF/wiki/servicios) de la wiki.
 
