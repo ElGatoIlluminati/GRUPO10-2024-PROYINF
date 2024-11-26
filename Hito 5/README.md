@@ -30,5 +30,5 @@
 #### Aspectos a considerar
 La utilización de la API mencionada tiene un costo monetario, en forma de tokens, para la utilización de esta, por lo tanto, no fue posible hacer pruebas exhaustivas del funcionamiento.
 
-
+### [Video Resultado Final](https://youtu.be/CVS0R8VaA-E)
 
