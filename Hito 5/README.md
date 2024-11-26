@@ -7,6 +7,7 @@
 
 #### **Procesar_pdf.py**
 * Este programa extrae el texto de un archivo pdf que se encuentra en algún direcotiro, y los guarda, con el fin de que sean filtrados por la API de text embedding.
+* **IMPORTANTE**: Los archivos pdfs a los que se le realizará embedding deben estár en el directorio */Dir_actual/pdfs*. Donde "Dir_actual" contiene a los archivos Embedding.py y Procesar_pdf.py.
 
 #### Embedding.py
 * Este código realiza el procesamiento de documentos en formato PDF para encontrar los más relevantes según keywords. Lo anterior se hace de la siguiente forma:
